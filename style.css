@@ -1,0 +1,65 @@
+body, html, * {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    line-height: 1.6rem;
+    
+}
+html {
+    background-color: white;
+}
+body {
+    background-color: #EEEEEE;
+    margin: 20px 0;
+    color: rgb(56, 56, 56);
+    font-family: 'Lato', sans-serif;
+}
+
+#main {
+    width: 90%;
+    margin: auto;
+    padding: 10px 0;
+}
+#main p {
+    margin: 15px;
+}
+#title {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+#img-div{
+    background-color: white;
+    height: auto;
+}
+
+#image {
+    width: 70%;
+    margin: auto;
+}
+#img-caption {
+    padding: 15px;
+}
+
+#tribute-info {
+    width: 50%;
+    margin: auto;
+    
+}
+
+#tribute-info li {
+    text-align: left;
+    font-size: 1.05rem;
+    margin: 12px;
+}
+
+.last-p {
+    font-style: italic;
+    font-weight: 700;
+    text-align: left;
+}
+
+#h3 {
+    font-weight: bold;
+    text-align: center;
+}
